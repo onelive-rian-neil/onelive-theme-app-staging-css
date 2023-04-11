@@ -1,3 +1,7 @@
 .header__menu-item span {
     color: orange;
 }
+
+main#MainContent {
+    background: pink !important;
+}
